@@ -36,7 +36,7 @@
 ## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/georgeperaltadias" target="_blank">
+<a href="https://linkedin.com/in/georgeperaltadias" {:target="_blank"}>
  <img align="center" src="https://img.shields.io/badge/-georgeperaltadias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/operaltageorge" target="_blank">
