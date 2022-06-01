@@ -36,11 +36,9 @@
 ## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/georgeperaltadias" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-georgeperaltadias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/georgeperaltadias" target="_blank"><img align="center" src="https://img.shields.io/badge/-georgeperaltadias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/operaltageorge" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-operaltageorge-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/operaltageorge" target="_blank"><img align="center" src="https://img.shields.io/badge/-operaltageorge-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
