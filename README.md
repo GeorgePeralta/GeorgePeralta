@@ -1,4 +1,4 @@
- ### Hi there <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm George Lucas Peralta
+ ### Hi there<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, I'm George Lucas Peralta
  
  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GeorgePeralta/61d9f113a5190e37f41865d7385166c2/raw/a321c0f63e67427f73466339dcf102423e5d92ae/githubcard.svg"/>
  
