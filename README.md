@@ -1,6 +1,6 @@
- ### Hi there<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, I'm George Lucas Peralta
- 
  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GeorgePeralta/61d9f113a5190e37f41865d7385166c2/raw/a321c0f63e67427f73466339dcf102423e5d92ae/githubcard.svg"/>
+ 
+ ### Hi there<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, I'm George Lucas Peralta 
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=GeorgePerlta&color=orange" alt="Profile views" /> </p>
 
@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working at  [ Meta ](https://www.meta.com.br/)
 
-<br><br>
+<br>
+<br>
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -23,6 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=MicrosoftSQLServer&logoColor=D32E0B)&nbsp;
 
+ <br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -31,7 +33,8 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePeralta&layout=compact&theme=codeSTACKr" alt="georgeperalta's most languages"/>
 </p>
 
-<br><br>
+<br>
+<br>
 
 ## 👨 &nbsp;Social Links
 
