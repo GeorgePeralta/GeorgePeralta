@@ -25,13 +25,6 @@
 
  <br><br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GeorgePeralta&count_private=true&theme=codeSTACKr&show_icons=true" alt="georgeperalta's  stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePeralta&layout=compact&theme=codeSTACKr" alt="georgeperalta's most languages"/>
-</p>
-
 <br>
 <br>
 
