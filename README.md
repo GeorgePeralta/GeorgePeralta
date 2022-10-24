@@ -7,6 +7,9 @@
 - 🔥   System analyst/Developer Junior
 
 - 🔭 I’m currently working at  [ Meta ](https://www.meta.com.br/)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgePeralta&hide=contribs&count_private=true&show_icons=true&theme=dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePeralta&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
